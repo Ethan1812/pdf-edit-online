@@ -657,7 +657,7 @@ HTML_FORM = """
         </div>
     </div>
     <footer>
-        <p>Desarrollado por Yeisson Rincón</p>
+        <p>Desarrollado por Yeisson Rincon</p>
         <p>&copy; 2025 Todos los derechos reservados.</p>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.14.0/Sortable.min.js"></script>
